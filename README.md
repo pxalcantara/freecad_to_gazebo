@@ -14,6 +14,10 @@ This project is in its early stage therefore specific design rules must be follo
 ## Requirements
 * [Freecad][freecad] with [A2Plus][a2plus] workspace installed
 * [ROS][ros] *Optional*, If you wish to install it as a package
+* Python version: **3.8**
+* `pycollada` to install it: 
+
+    `sudo pip3 install pycollada`
 
 ## Usage
 
